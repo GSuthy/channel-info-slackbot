@@ -1,0 +1,16 @@
+{
+    "name": "Channel Creation Slackbot",
+    "version": "1.0.0",
+    "description": "This slackbot posts to Slack when a new channel is created.",
+    "engines": {
+        "node": "4.2.x",
+        "npm": "2.14.x"
+    },
+    "dependencies": {
+        "extend": "^3.0.0",
+        "nodemon": "^1.7.3",
+        "request": "^2.65.0",
+        "vow": "^0.4.11",
+        "ws": "^0.8.0"
+    }
+}
