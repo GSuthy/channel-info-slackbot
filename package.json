@@ -1,5 +1,5 @@
 {
-    "name": "Channel Creation Slackbot",
+    "name": "ChannelCreationSlackbot",
     "version": "1.0.0",
     "description": "This slackbot posts to Slack when a new channel is created.",
     "engines": {
