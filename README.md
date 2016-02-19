@@ -1,4 +1,4 @@
-# Channel Creation Slackbot
+# Channel Info Slackbot
 A simple Slackbot that posts to Slack whenever a channel is created, updated, or deleted.
 
 # Installation
